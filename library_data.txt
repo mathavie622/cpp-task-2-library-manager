@@ -1,0 +1,10 @@
+[BOOKS]
+101|The Alchemist|Paulo Coelho|1
+102|Clean Code|Robert C. Martin|1
+103|Python Crash Course|Eric Matthes|1
+104|C++ Primer|Stanley B. Lippman|1
+[MEMBERS]
+201|Mathavi
+202|Arun
+203|Priya
+[LOANS]
